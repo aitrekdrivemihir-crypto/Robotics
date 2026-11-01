@@ -1,0 +1,1 @@
+The Workspace foundation was adapted from Josh Newans template
